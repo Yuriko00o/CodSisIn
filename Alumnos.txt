@@ -1,0 +1,12 @@
+Alumnos.txt
+UTF-8
+Chavez Campos Michelle
+Gallardo Ledesma Carlos
+Guzmán Damian Vanessa Yoselin
+Hernández Cruz Paloma Zarahi
+Montaño Hernández Yamle Isabela
+Páramo Guzmán Romina
+Ramirez Morales Brandon Ismael
+Robles Gómez Efren Alexander
+Sandoval Camacho Joel Alejandro
+Valente Carrillo Jazmín
